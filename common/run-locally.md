@@ -16,3 +16,13 @@ You can add alias for the sail command.
 
 Then open the site on localhost, and the install window should appear. 
 
+In .env instead of 
+```text
+DB_HOST=127.0.0.1
+```
+
+use 
+```text
+DB_HOST=mysql
+```
+
