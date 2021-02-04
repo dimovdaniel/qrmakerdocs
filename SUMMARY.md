@@ -4,38 +4,39 @@
 
 ## Installation <a id="docs"></a>
 
-* [Installation on Shared Hosting](docs/installation.md)
-* [Environment configuration](docs/environment-configuration.md)
-* [Run local](docs/run-locally.md)
+* [Installation on Shared Hosting](common/installation.md)
+* [Updating - Shared hosting](common/updating-shared-hosting.md)
+* [Run local](common/run-locally.md)
 
 ## Define Basics
 
-* [Database](define-basics/database.md)
-* [Mail server](define-basics/obtain-smtp.md)
-* [Localization and Time format](define-basics/localization.md)
-* [Pricing Plans](define-basics/payments.md)
-* [Google Analytics](define-basics/google-analytics.md)
-* [Google Map API](define-basics/google-map-api.md)
-* [Import from CSV](define-basics/import-from-csv.md)
-* [Pay with card](define-basics/pay-with-card.md)
+* [Mail server](common/obtain-smtp.md)
+* [Localization and Time format](common/localization.md)
+* [Pricing Plans](common/payments.md)
+* [Google Analytics](common/google-analytics.md)
+* [Google Map API](common/google-map-api.md)
+* [Pay with card](qr/pay-with-card.md)
 
 ## Plugins
 
-* [Pusher](plugins/pusher.md)
-* [ShareThis](plugins/sharethis.md)
+* [Pusher](common/pusher.md)
+* [ShareThis](common/sharethis.md)
+* [Cookie Consent](common/cookieconsent.md)
 
 ## Usage
 
-* [Getting Started](usage/getting-started.md)
-* [Set up your site](usage/set-up-your-site.md)
-* [Restaurant subdomain](usage/restaurant-subdomain.md)
-* [Translations](usage/translations.md)
-* [Custom CSS](usage/custom-css.md)
-* [Call Waiter](usage/call-waiter.md)
+* [Getting Started](common/getting-started.md)
+* [Set up your site](common/set-up-your-site.md)
+* [Restaurant subdomain](common/restaurant-subdomain.md)
+* [Translations](common/translations.md)
+* [Custom CSS](common/custom-css.md)
+* [Call Waiter](qr/call-waiter.md)
 
 ## Changelog
 
 * [Changelog](changelog/changelog.md)
-* [Updating - Shared hosting](changelog/updating-shared-hosting.md)
+
+## FAQ
+
 * [FAQ](changelog/faq.md)
 
