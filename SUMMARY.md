@@ -13,8 +13,6 @@
 * [Mail server](common/obtain-smtp.md)
 * [Localization and Time format](common/localization.md)
 * [Pricing Plans](common/payments.md)
-* [Google Analytics](common/google-analytics.md)
-* [Google Map API](common/google-map-api.md)
 * [Pay with card](qr/pay-with-card.md)
 
 ## Plugins
@@ -22,6 +20,8 @@
 * [Pusher](common/pusher.md)
 * [ShareThis](common/sharethis.md)
 * [Cookie Consent](common/cookieconsent.md)
+* [Google Analytics](common/google-analytics.md)
+* [Google Map API](common/google-map-api.md)
 
 ## Usage
 
