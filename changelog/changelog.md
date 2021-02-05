@@ -271,8 +271,6 @@ If you receive an error like HOME ACTION NOT ALLOWED it is because you are logge
 
 Follow the standard update procedure
 
-{% page-ref page="updating-shared-hosting.md" %}
-
 From this version on, when there is a new update, log in as admin, and you will see a blue card on left, indicating that there is an update you can apply.
 
 {% hint style="warning" %}
@@ -294,8 +292,6 @@ This update brings updates on the landing page. if you have modified, you may wa
 ### How to update
 
 Follow the standard update procedure
-
-{% page-ref page="updating-shared-hosting.md" %}
 
 Or, here is the list of file modified, so you can change them one by one if you prefer.
 
