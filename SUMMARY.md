@@ -40,6 +40,6 @@
 ## FAQ
 
 * [FAQ - Technical](faq/faq.md)
-* [FAQ - Business](qr/faq_business.md)
+* [FAQ - Business](faq/faq_business.md)
 
 
