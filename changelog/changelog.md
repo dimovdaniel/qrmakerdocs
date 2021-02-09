@@ -6,13 +6,13 @@
 * WhatsApp Ordering
 
 ### Fixes
-Stripe 3D Secure
-HasDineIn Problem - when there is only dine in.
+* Stripe 3D Secure
+* HasDineIn Problem - when there is only dine in.
 
 ### Improvements
-Full list of currencies
-Better error 500 show
-Show/Hide Cookie Consent
+* Full list of currencies
+* Better error 500 show
+* Show/Hide Cookie Consent
 
 
 ### How to update
