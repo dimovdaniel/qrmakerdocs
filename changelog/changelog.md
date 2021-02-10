@@ -1,6 +1,6 @@
 # Changelog
 
-## 2.1.1  - 2021-02-09 
+## 2.1.1  - 2021-02-10
 
 ### New
 * WhatsApp Ordering
