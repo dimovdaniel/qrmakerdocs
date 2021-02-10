@@ -2,7 +2,7 @@
 
 ## The easiest way to translate
 
-{% embed url="https://www.youtube.com/watch?v=tVNj-bOXk\_E" %}
+{% embed url="https://www.youtube.com/watch?v=tVNj-bOXk\_E" caption="" %}
 
 ## How to add a new language
 

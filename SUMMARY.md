@@ -39,7 +39,6 @@
 
 ## FAQ
 
-* [FAQ - Technical](common/faq.md)
+* [FAQ - Technical](faq/faq.md)
 * [FAQ - Business](faq/faq_business.md)
-
 
