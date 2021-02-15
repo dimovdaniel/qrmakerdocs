@@ -104,9 +104,9 @@ Drag and Drop the folders from the update to your FTP. Overwrite them.
 
 Repeat the procedure until you see that this is the latest version. 
 
-![Drag and Drop to upload](../.gitbook/assets/upload_files.png)
+![Drag and Drop to upload](https://i.imgur.com/jSUh6Rr.png)
 
-![](../.gitbook/assets/owerwrite.png)
+![Overwrite]((https://i.imgur.com/AlYBBCo.png))
 
 
 
