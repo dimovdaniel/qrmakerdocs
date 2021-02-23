@@ -32,6 +32,7 @@
 * [Custom CSS](usage/custom-css.md)
 * [Call Waiter](usage/call-waiter.md)
 * [Import from CSV](usage/import-from-csv.md)
+* [Custom fields on order](usage/custom-fields-on-order.md)
 
 ## Changelog
 
