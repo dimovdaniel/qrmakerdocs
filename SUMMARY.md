@@ -29,6 +29,7 @@
 * [Set up your site](usage/set-up-your-site.md)
 * [Restaurant subdomain](usage/restaurant-subdomain.md)
 * [Translations](usage/translations.md)
+* [Multilingual menu](usage/multilingual-menu.md)
 * [Custom CSS](usage/custom-css.md)
 * [Call Waiter](usage/call-waiter.md)
 * [Import from CSV](usage/import-from-csv.md)
