@@ -17,6 +17,7 @@
 
 ## Plugins
 
+* [How to install plugin](plugins/how-to-install-plugin.md)
 * [Pusher](plugins/pusher.md)
 * [ShareThis](plugins/sharethis.md)
 * [Cookie Consent](plugins/cookieconsent.md)
