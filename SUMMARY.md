@@ -35,7 +35,7 @@
 * [Call Waiter](usage/call-waiter.md)
 * [Import from CSV](usage/import-from-csv.md)
 * [Custom fields on order](usage/custom-fields-on-order.md)
-* [Project plugins](usage/project-plugins.md)
+* [Add your own landing page](usage/add-your-own-landing-page.md)
 
 ## Changelog
 
