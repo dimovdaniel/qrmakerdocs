@@ -94,7 +94,7 @@ Also, please talk with your hosting provider on how to enable the zip extension 
 
 **Cause**: This mostly happens because of storage/logs permissions or cache.
 
-**Solution:** Change the permissions on the storage directory to 775 and after that delete everything inside bootstrap/cache directory and reload the page.
+**Solution:** Delete everything inside bootstrap/cache directory and reload the page.
 
 ## Update via FTP
 
