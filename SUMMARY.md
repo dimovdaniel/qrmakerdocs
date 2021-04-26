@@ -23,6 +23,7 @@
 * [Cookie Consent](plugins/cookieconsent.md)
 * [Google Analytics](plugins/google-analytics.md)
 * [Google Map API](plugins/google-map-api.md)
+* [Thermal Printer Module](plugins/thermal-printer-module.md)
 
 ## Usage
 
