@@ -2,6 +2,9 @@
 
 ## 2.5.0 - 2021-06-19
 
+### Video
+{% embed url="https://youtu.be/J_mBypwyBl4" caption="" %}
+
 ### New
 * Logo for restaurants in the header area
 
