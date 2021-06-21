@@ -1,7 +1,8 @@
 # Changelog
 
 ## 2.5.0 - 2021-06-19
-### 2.5.1 - Hotfix for 2.5.0 - [Updated files](https://gist.github.com/dimovdaniel/83e01921ebe704a0a5258387f46b1625)
+### 2.5.1 - Hotfix for 2.5.0
+[Updated files](https://gist.github.com/dimovdaniel/83e01921ebe704a0a5258387f46b1625)
 
 ### Video
 {% embed url="https://youtu.be/J_mBypwyBl4" caption="" %}
