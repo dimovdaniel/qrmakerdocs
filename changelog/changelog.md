@@ -8,31 +8,33 @@
 * 2.5.2 - Change language from admin, Over night fixes, extra ; in some pages  [Files](https://gist.github.com/dimovdaniel/79477130d7c98b03d44f5913762c9f7a)
 * 2.5.1  - Hotfix for 2.5.0 [Updated files](https://gist.github.com/dimovdaniel/83e01921ebe704a0a5258387f46b1625)
 
-
-
 ## 2.5.0 - 2021-06-19
 
 ### 2.5.1 - Hotfix for 2.5.0
+
 [Updated files](https://gist.github.com/dimovdaniel/83e01921ebe704a0a5258387f46b1625)
 
 ### Video
-{% embed url="https://youtu.be/J_mBypwyBl4" caption="" %}
+
+{% embed url="https://youtu.be/J\_mBypwyBl4" caption="" %}
 
 ### New
+
 * Logo for restaurants in the header area
 
 ### Improvements
+
 * Better SEO
 * Items import
 * Limit number of orders in plan
 
 ### How to update
+
 Just log in as admin, go to "Updates" and you should see new "New Update 2.5.0" button. Click on the button to update. Note that this is a bigger update. Please check the List of files to confirm it will not overwrite some of your changes if you have them.
 
 **List of updated files**
 
 [File list](https://gist.github.com/dimovdaniel/fb8786456f106660b85ccbe3e58744af)
-
 
 ## 2.4.x - Continues updates
 

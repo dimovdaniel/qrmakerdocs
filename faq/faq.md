@@ -2,14 +2,11 @@
 description: Frequently Asked Questions (FAQs)
 ---
 
-# FAQ
+# FAQ - Technical
 
-## How to set 24h working time
+## How to set overnight working time
 
-We have made an overwrite, if you set closing time to be 23:59 to be interpreted as no closing at all.
-
-Ex - night club working hours from 22 and closes at 4 in the morning.  
-Friday - 22:00 - 23:59 Saturday - 00:00 - 04:00 \| Saturday Shift 2 - 22:00 - 23:59 Sunday - 00:00 - 04:00
+Since 2.5.2 you are able to set overnight working time just by  making ex start time 08:00PM and closing time ex 02:00 PM
 
 ## Registration is not working.
 
@@ -17,7 +14,7 @@ This is one of the most common problems. It happens because SMTP is not correctl
 
 {% page-ref page="../define-basics/obtain-smtp.md" %}
 
-## How restaurants owner register?
+## How do restaurants owner register?
 
 At the front end part of the script, you will find the form for **Registration.** . The interested restaurants will fill the form, and Restaurant/owner account will be automatically created. An email will be sent to them.
 
@@ -68,11 +65,9 @@ Easy to translate to any language. All strings are in few files.
 
 **Problem**: When you click on the update button, you get a blank screen with error 500. if you enable debug mode, you see the error directory "tmp/v2.0.x" not found.
 
-**Cause 1**: 
-This mostly happens because the /tmp directory is not workspace related /tmp dir
+**Cause 1**: This mostly happens because the /tmp directory is not workspace related /tmp dir
 
-**Cause 2**: 
-Other common reason is that there was interuption in the download process and your server has create the zip but with incorrect structure. And then when it tries to re download, gives the error.
+**Cause 2**: Other common reason is that there was interuption in the download process and your server has create the zip but with incorrect structure. And then when it tries to re download, gives the error.
 
 **Solution 1**:
 
@@ -83,10 +78,7 @@ Other common reason is that there was interuption in the download process and yo
 * SELF\_UPDATER\_DOWNLOAD\_PATH="/home/YOUR\_WORKSPACE\_NAME/tmp/" 
 * Then try again to update
 
-**Solution 2**:
-Please speak with you hosting provider to clear the contents ( specifically v2.x.x.zip ) of the system **tmp** folder. If you can you can do this on your own. Server restart in most cases also clears the tmp folder.
-
-
+**Solution 2**: Please speak with you hosting provider to clear the contents \( specifically v2.x.x.zip \) of the system **tmp** folder. If you can you can do this on your own. Server restart in most cases also clears the tmp folder.
 
 ### Error on update 503
 
@@ -222,4 +214,18 @@ Let me know about this.
 In order to force your site to run only in HTTPS login as admin, then go in "Site Setting" and in "Setup" tab locate the "App environment". And set it to "Production".
 
 This is what can be done on the Project level. Make sure you have valid SSL and that you have set the HTTPS force on the hosting level also.
+
+## How to enable PHP Extension
+
+If you get an error like this one
+
+![](https://i.imgur.com/EXp59rL.png)
+
+This indicates that the INTL extension - or depending on the problem, another one is not enabled.
+
+Here is a good video on how you can enable it. If you can't. Please speak with your hosting provider.
+
+{% embed url="https://www.youtube.com/watch?v=kYwRtMwWerQ" %}
+
+
 
