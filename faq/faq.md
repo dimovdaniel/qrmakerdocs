@@ -8,6 +8,13 @@ description: Frequently Asked Questions (FAQs)
 
 Since 2.5.2 you are able to set overnight working time just by  making ex start time 08:00PM and closing time ex 02:00 PM
 
+## Notification translation
+
+One really common problem is that the emails is no received correctly. Password or email is missing. 
+and here is the reason why. 
+Please check this [video](https://www.loom.com/share/112938a8fa31418386b5ae2c8c71303b)
+
+
 ## Registration is not working.
 
 This is one of the most common problems. It happens because SMTP is not correctly set up, or not set up at all. To learn how to set it up, follow this guide
