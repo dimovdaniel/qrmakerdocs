@@ -4,6 +4,12 @@ description: Frequently Asked Questions (FAQs)
 
 # FAQ - Technical
 
+## Install the project in subdomain
+
+When you want to run your project in subdomain, you need to declare this subdomain in your Settings. To do that, you will need to go to Site setting->Setup->Subdomains and add your domain there.  Ex, if you want to run the project in app.domain.com 
+![Setup Subdomain](https://i.imgur.com/k6uuMa2.jpg)
+
+
 ## How to set overnight working time
 
 Since 2.5.2 you are able to set overnight working time just by  making ex start time 08:00PM and closing time ex 02:00 PM
@@ -119,7 +125,7 @@ Drag and Drop the folders from the update to your FTP. Overwrite them.
 
 Repeat the procedure until you see that this is the latest version.
 
-![Drag and Drop to upload](https://i.imgur.com/jSUh6Rr.png)
+c
 
 ![Overwrite](https://i.imgur.com/AlYBBCo.png)
 
