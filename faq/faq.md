@@ -6,7 +6,7 @@ description: Frequently Asked Questions (FAQs)
 
 ## Install the project in subdomain
 
-When you want to run your project in subdomain, you need to declare this subdomain in your Settings. To do that, you will need to go to Site setting->Setup->Subdomains and add your domain there.  Ex, if you want to run the project in app.domain.com
+When you want to run your project in subdomain, you need to declare this subdomain in your Settings. To do that, you will need to go to Site setting->Setup->Subdomains and add your domain there.  Ex, if you want to run the project in app.domain.com.
 
 ![](https://i.imgur.com/k6uuMa2.jpg)
 
