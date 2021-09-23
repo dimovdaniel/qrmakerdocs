@@ -3,8 +3,8 @@
 * 2.7.3 - Pricing plan bug - was showing vendor currency, compatible with [Lion POS](https://codecanyon.net/item/lion-pos-saas-cloud-point-of-sale-script/33733665) - [Updated Files](https://paste.laravel.io/6ec88159-ad36-4ae8-8535-eb43a8372a7d)
 * 2.7.2 - Fixes in Missing Variants, Local Files for later usage [Files](https://paste.laravel.io/9a8eab2c-cce4-4d90-a3f0-2ad4e4f5bf70)
 
-
 ## 2.7.0 - 2021-09-04
+
 ### New
 
 * RTL Support
@@ -17,28 +17,23 @@
 * Validation on plan create
 * Subdomain value will be changed only in Vendor is newer than 1 day
 
-
 ### Fixes
 
 * Bern timezone missing
 
-
 ### Modules
 
 * [Expenses](https://mobidonia.gumroad.com/?sort=page_layout#NwxgX)
-* [All-Access Pass](https://mobidonia.gumroad.com/?sort=page_layout#PVVGE) ( All plugins free, apps on 50% )
+* [All-Access Pass](https://mobidonia.gumroad.com/?sort=page_layout#PVVGE) \( All plugins free, apps on 50% \)
 * [Cloner](https://mobidonia.gumroad.com/?sort=page_layout#pVCjei)
-  
- 
+
 ### How to update
 
-Just log in as admin, go to "Updates" and you should see new "New Update 2.7.0" button. Click on the button to update. Note that this is a bigger update. Please check the List of files to confirm it will not overwrite some of your changes if you have them.
-NOTE: For this update we strongly recommend to backup your database and files. 
+Just log in as admin, go to "Updates" and you should see new "New Update 2.7.0" button. Click on the button to update. Note that this is a bigger update. Please check the List of files to confirm it will not overwrite some of your changes if you have them. NOTE: For this update we strongly recommend to backup your database and files.
 
 ### List of updated files
+
 [Updated files](https://paste.laravel.io/5d1428c2-d525-49d1-9330-f69a0385e40a)
-
-
 
 ## 2.6.x - Continues updates
 
@@ -48,7 +43,7 @@ NOTE: For this update we strongly recommend to backup your database and files.
 * 2.6.2 - Google translate - fixes for module [Files](https://paste.laravel.io/66c2ccf2-ff5e-48b3-b6ca-798f895eaddf)
 * 2.6.1 - Show vendor closed in modal, GT don't translate some elements [Files](https://paste.laravel.io/3795a2fa-d1b6-4865-9c40-9f63a7c215c0)
 
-## 2.6.0 - 2021-08-15 
+## 2.6.0 - 2021-08-15
 
 ### Video
 
@@ -56,8 +51,7 @@ NOTE: For this update we strongly recommend to backup your database and files.
 
 ### New
 
-* Easy change of all "Restaurants" to something like shop, vendor, company ( now restaurants table is renamed to companies)
-
+* Easy change of all "Restaurants" to something like shop, vendor, company \( now restaurants table is renamed to companies\)
 
 ### Fixes
 
@@ -67,20 +61,16 @@ NOTE: For this update we strongly recommend to backup your database and files.
 
 ### Modules
 
-* [Stripe Link Checkout](https://mobidonia.gumroad.com/l/stripech) ( Stripe Hosted Checkout )
-* [Staff](https://mobidonia.gumroad.com/l/staffmodule) ( allow staff to manage orders)
-* [FlutterWave Module](https://mobidonia.gumroad.com/l/flutterwavepayments) ( accept payment via FlutterWave )
-* [Google Translate Module](https://mobidonia.gumroad.com/l/googletranslate) ( Easily add language translate for any language to the menu )
-  
- 
+* [Stripe Link Checkout](https://mobidonia.gumroad.com/l/stripech) \( Stripe Hosted Checkout \)
+* [Staff](https://mobidonia.gumroad.com/l/staffmodule) \( allow staff to manage orders\)
+* [FlutterWave Module](https://mobidonia.gumroad.com/l/flutterwavepayments) \( accept payment via FlutterWave \)
+* [Google Translate Module](https://mobidonia.gumroad.com/l/googletranslate) \( Easily add language translate for any language to the menu \)
+
 ### How to update
 
-Just log in as admin, go to "Updates" and you should see new "New Update 2.6.0" button. Click on the button to update. Note that this is a bigger update. Please check the List of files to confirm it will not overwrite some of your changes if you have them.
-NOTE: For this update we strongly recommend to backup your database. 
+Just log in as admin, go to "Updates" and you should see new "New Update 2.6.0" button. Click on the button to update. Note that this is a bigger update. Please check the List of files to confirm it will not overwrite some of your changes if you have them. NOTE: For this update we strongly recommend to backup your database.
 
-**List of updated files**
-[Updated files](https://paste.laravel.io/f49cce51-0a1a-458a-9ebc-1ee1165ac1bf)
-
+**List of updated files** [Updated files](https://paste.laravel.io/f49cce51-0a1a-458a-9ebc-1ee1165ac1bf)
 
 ## 2.5.x - Continues updates
 
