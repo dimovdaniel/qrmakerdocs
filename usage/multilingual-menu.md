@@ -20,5 +20,3 @@ Now after this option is enabled successfully every restaurant will have this op
 
 ![](../.gitbook/assets/screenshot3.png)
 
-
-
