@@ -2,7 +2,7 @@
 
 ## The easiest way to translate
 
-{% embed url="https://www.youtube.com/watch?v=tVNj-bOXk\_E" caption="" %}
+{% embed url="https://www.youtube.com/watch?v=tVNj-bOXk_E" %}
 
 ## How to add a new language
 
@@ -20,7 +20,7 @@ Add the language you want
 
 Login as admin and go to Translations.
 
-There, the translations strings are grouped, or if not grouped they are in Single \( Single strings \). You can also use the search box to quickly found the string. Select the language you want to translate to.
+There, the translations strings are grouped, or if not grouped they are in Single ( Single strings ). You can also use the search box to quickly found the string. Select the language you want to translate to.
 
 Initially, "English" should be the default locale, since there we have all the strings, so you can translate from.
 
@@ -38,7 +38,7 @@ First, click on "+ Add" to add a new term
 
 ![](https://i.imgur.com/naRDxDS.png)
 
-There enter the existing string \( String that you see on the site ex. Platform Fee\) and your desired translations.
+There enter the existing string ( String that you see on the site ex. Platform Fee) and your desired translations.
 
 ![](https://i.imgur.com/zaB7LVU.png)
 
@@ -48,7 +48,7 @@ The dropdown of languages you see on the front page and in the admin language ch
 
 ![](https://i.imgur.com/tmVHN6R.png)
 
-Is controlled from Settings -&gt; Localization.
+Is controlled from Settings -> Localization.
 
 ![](https://i.imgur.com/Nc5e8xA.png)
 
@@ -58,7 +58,7 @@ The dropdown of languages you see on the front page and in the admin language ch
 
 ![](https://i.imgur.com/tmVHN6R.png)
 
-Is controlled from Settings -&gt; Localization.
+Is controlled from Settings -> Localization.
 
 ![](https://i.imgur.com/Nc5e8xA.png)
 
@@ -88,9 +88,8 @@ The missing translations will show as empty. So make sure you translate them.
 
 After adding the missing translation, you can switch to your language.
 
--- Another option will be to use a tool like PoEditor, where you can update en.json in order to maintain full translation.
+\-- Another option will be to use a tool like PoEditor, where you can update en.json in order to maintain full translation.
 
 ## Multi language menu
 
 In some languages like arabic, the characters take up lot more spaces. So the default table size count is not enough. [Here](https://cln.sh/St3NVI) is how to change it to text
-
