@@ -1,7 +1,5 @@
 # Changelog
 
-# Changelog
-
 ## 3.3.0 - 2022-08-05
 
 ### Video
