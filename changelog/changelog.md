@@ -10,6 +10,7 @@
 
 * Login / Register clients (via the new module)
 * Export clients (via the new module)
+* Export companies/restaurants
 * Better client details in order details (via the new module)
 * Make order of value is 0
 * Delete client account with remove of personal data
@@ -23,7 +24,6 @@
 
 * Client Login / Register module
 * Clone module - clone single item
-* Reintroduce TinyPNG module
 * Custom domain - multiple domain domain1,domain2
   
 ### How to update
