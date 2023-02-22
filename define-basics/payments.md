@@ -28,11 +28,11 @@ First you will need to create developer account on PayPal on the following [link
 
 Now select **My Apps and credentials** and click on the button **Create App**.
 
-Now fill the informations that are required and make sure that you will select the **Merchant App Type**. After you created the app you will see the **Client ID** and **Secret** credentials **generated. **Copy them and fill your PayPal credentials in Settings-> Finances. First, test in development - sandbox mode.
+Now fill the informations that are required and make sure that you will select the **Merchant App Type**. After you created the app you will see the **Client ID** and **Secret** credentials **generated.** Copy them and fill your PayPal credentials in Settings-> Finances. First, test in development - sandbox mode.
 
 ![](<../.gitbook/assets/screenshot-1- (1).png>)
 
-Create account on the official [PayPal website](https://www.paypal.com) and the login with the account.
+Create account on the official [PayPal website](https://www.paypal.com/) and the login with the account.
 
 Open this [URL](https://www.paypal.com/billing/plans) and make sure that you are logged in before you open this URL.
 
