@@ -3,7 +3,7 @@
 ## 4.1.0 - 2024-10-16
 
 ### New
-* Items reorder
+* [Items reorder](https://x.com/dimovdaniel/status/1846246169267118374)
 * Enable / Disable categories
 
 
